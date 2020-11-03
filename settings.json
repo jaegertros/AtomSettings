@@ -1,7 +1,8 @@
 {
 	"*": {
 		"core": {
-			"uriHandlerRegistration": "always"
+			"uriHandlerRegistration": "always",
+			"telemetryConsent": "no"
 		},
 		"exception-reporting": {
 			"userId": "5d86004b-06c4-48cf-bc24-1be3a0a75103"
@@ -9,6 +10,7 @@
 		"gruvbox-plus-syntax": {},
 		"sync-settings": {
 			"gistDescription": "Atom Settings",
+			"hiddenSettings": {},
 			"useOtherLocation": true
 		},
 		"sync-settings-git-location": {
