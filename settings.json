@@ -1,0 +1,18 @@
+{
+	"*": {
+		"core": {
+			"uriHandlerRegistration": "always"
+		},
+		"exception-reporting": {
+			"userId": "5d86004b-06c4-48cf-bc24-1be3a0a75103"
+		},
+		"gruvbox-plus-syntax": {},
+		"sync-settings": {
+			"gistDescription": "Atom Settings",
+			"useOtherLocation": true
+		},
+		"sync-settings-git-location": {
+			"gitUrl": "https://github.com/jaegertros/AtomSettings"
+		}
+	}
+}
